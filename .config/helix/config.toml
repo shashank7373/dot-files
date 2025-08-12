@@ -1,0 +1,32 @@
+theme = "catppuccin_mocha"
+
+[editor.cursor-shape]
+insert = "bar"
+normal = "block"
+select = "underline"
+
+[editor]
+# ... other gutter settings
+rulers = [80]
+bufferline = "always"
+
+[editor.indent-guides]
+
+render = true
+
+character = "╎"
+
+[editor.whitespace.render]
+
+space = "all"
+
+tab = "all"
+
+
+[editor.whitespace.characters]
+
+space = "·"
+
+tab = "→"
+
+tabpad = "·"

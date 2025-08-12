@@ -1,0 +1,55 @@
+[General]
+ColorScheme[$d]
+ColorSchemeHash[$d]
+File1[$e]=$HOME/Downloads/www.1TamilMV.pet - Panchayat (2025) S04 EP(01-08) Hindi WEB-DL - 720p - AVC - (AAC 2.0) - 2.6GB - ESub/www.1TamilMV.pet - Panchayat S04E01 Case-Mukadma 720p.mkv
+File2[$e]=/run/media/shashanks/ILLUMINATI/1080P movies/The.Kashmir.Files.2022.1080p.MULTi.WEB-DL.H.264.DDP5.1-NbT.mkv
+File3[$e]=$HOME/Downloads/The Conjuring 2 (2016) [1080p] [YTS.AG]/The.Conjuring.2.2016.1080p.BluRay.x264-[YTS.AG].mp4
+Name1[$e]=www.1TamilMV.pet - Panchayat S04E01 Case-Mukadma 720p.mkv
+Name2[$e]=The.Kashmir.Files.2022.1080p.MULTi.WEB-DL.H.264.DDP5.1-NbT.mkv
+Name3[$e]=The.Conjuring.2.2016.1080p.BluRay.x264-[YTS.AG].mp4
+TimeFormat=1
+Volume=1
+fixed[$d]
+font[$d]
+menuFont[$d]
+smallestReadableFont[$d]
+toolBarFont[$d]
+
+[Phonon::AudioOutput]
+Dragon Player_Volume=1
+
+[file:///home/shashanks/Downloads/The Conjuring 2 (2016) %5B1080p%5D %5BYTS.AG%5D/The.Conjuring.2.2016.1080p.BluRay.x264-%5BYTS.AG%5D.mp4]
+AudioChannel=2
+Brightness=0
+Contrast=0
+Date=2025,8,10
+Hue=0
+IsVideo=true
+Position=4167599
+Preferred Size=651,535
+Saturation=0
+Subtitle=2
+
+[file:///home/shashanks/Downloads/www.1TamilMV.pet - Panchayat (2025) S04 EP(01-08) Hindi WEB-DL - 720p - AVC - (AAC 2.0) - 2.6GB - ESub/www.1TamilMV.pet - Panchayat S04E01 Case-Mukadma 720p.mkv]
+AudioChannel=2
+Brightness=0
+Contrast=0
+Date=2025,6,27
+Hue=0
+IsVideo=true
+Position=92941
+Preferred Size=651,571
+Saturation=0
+Subtitle=2
+
+[file:///run/media/shashanks/ILLUMINATI/1080P movies/The.Kashmir.Files.2022.1080p.MULTi.WEB-DL.H.264.DDP5.1-NbT.mkv]
+AudioChannel=1
+Brightness=0
+Contrast=0
+Date=2025,6,28
+Hue=0
+IsVideo=true
+Position=1307460
+Preferred Size=651,571
+Saturation=0
+Subtitle=2

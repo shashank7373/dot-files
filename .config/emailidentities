@@ -1,0 +1,13 @@
+[General]
+Default Identity=311790615
+
+[Identity #0]
+Default Domain=shashanks-macmini
+Disable Fcc=false
+Identity=Shashanks
+Image Location=
+Inline Signature=
+Name=Shashanks
+Override Encryption Defaults=false
+Signature Enabled=false
+uoid=311790615

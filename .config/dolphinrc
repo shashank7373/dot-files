@@ -1,0 +1,15 @@
+[ExtractDialog]
+1920x1080 screen: Height=540
+1920x1080 screen: Width=1256
+DirHistory[$e]=$HOME/Downloads/The Conjuring (2013) [1080p]/,$HOME/Downloads/jetbrains_mono_nerd/
+
+[General]
+Version=202
+ViewPropsTimestamp=2025,6,22,13,39,49.722
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[MainWindow]
+MenuBar=Disabled
